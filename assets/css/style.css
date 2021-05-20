@@ -1,0 +1,280 @@
+.index {
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-size: 100%;
+	background-color: #FF6699;
+}
+
+.index h1 {
+	font-family: arial, verdana, sans-serif;
+	font-size : 250%;
+    color: #33CC33;
+}
+
+.index p {
+	font-family: "Times New Roman", serif;
+ 	font-size : 200%;
+ 	color: white;
+}
+ 
+.index a { 
+	font-style: italic;
+	color: #66FFFF;
+	text-decoration:none;
+}
+
+.index a:hover { 
+	font-style: normal;
+	color:#4B0082; 
+}
+
+
+
+.page2 {
+	background-image: url("https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/555359d8-7866-4113-b0c5-b5e13e3bf1c8/600x900");
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-size: 100%;
+}
+
+.page2 h1 {
+	font-family: arial, verdana, sans-serif;
+ 	font-size : 200%;
+ 	color: #FFFFFF;
+}
+
+.page2 p {
+	font-family: "Times New Roman", serif;
+	font-size : 150%;
+	color: #FFFFFF;
+}
+
+.page2 a {
+	font-style: italic;
+	color: #FFD700;
+	text-decoration:none;
+}
+
+.page2 a:hover { 
+	font-style: normal;
+	color:#4B0082; 
+}
+
+
+.page3 {
+	background-image: url("https://avatars.mds.yandex.net/get-kinopoisk-image/1629390/ed4b6bbb-f755-4977-bf33-005d2c30f67f/300x450");
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-size: 100%;
+}
+
+.page3 h1 { 
+	font-family: arial, verdana, sans-serif;
+	font-size : 200%;
+	color: #FF0000;
+}
+
+.page3 p { 
+	font-family: "Times New Roman", serif;
+	font-size : 150%;
+	color: #FF0000;
+}
+
+.page3 a {
+	font-style: italic;
+	color: #00FF7F;
+	text-decoration:none;
+}
+
+.page3 a:hover{ 
+	color:#4B0082; 
+	font-style: normal;
+}
+
+
+
+.page4 {
+	background-image: url("https://www.hdclub.ua/files/film/big/bigi52050be5d8f04.jpg");
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-size: 100%;
+}
+
+.page4 h1 {
+	font-family: arial, verdana, sans-serif;
+	font-size : 200%;
+	color: #00ff00;
+}
+
+.page4 p {
+	font-family: "Times New Roman", serif;
+	font-size : 150%;
+	color: #8A2BE2;
+}
+
+.page4 a {
+	font-style: italic;
+	color: #ff1493;
+	text-decoration:none;
+}
+
+.page4 a:hover{ 
+	color:#4B0082; 
+	font-style: normal;
+}
+
+
+
+.page5 {
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-size: 100%;
+	background-color: #FFFFE0;
+}
+
+.page5 h1 {
+	font-family: arial, verdana, sans-serif;
+	font-size : 200%;
+	color: #000000;
+}
+
+.page5 p {
+	font-family: "Times New Roman", serif;
+	font-size : 150%;
+	color: #006400;
+}
+
+.page5 a {
+	font-style: italic;
+	color: #008B8B;
+	text-decoration:none;
+}
+
+.page5 a:hover{ 
+	color:#4B0082; 
+	font-style: normal;
+}
+
+
+.page6 {
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-size: 100%;
+	background-color: #FFCCFF;
+}
+
+.page6 h1 {
+	font-family: arial, verdana, sans-serif;
+	font-size : 200%;
+	color: #66FFFF;
+}
+
+.page6 p {
+	font-family: "Times New Roman", serif;
+	font-size : 150%;
+	color: #CC3300;
+}
+
+.page6 a {
+	font-style: italic;
+	color: #009933;
+	text-decoration:none;
+}
+
+.page6 a:hover{ 
+	color:#4B0082; 
+	font-style: normal;
+}
+
+
+.page7 {
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-size: 100%;
+	background-color: #CCFFCC;
+}
+
+.page7 h1 {
+	font-family: arial, verdana, sans-serif;
+	font-size : 200%;
+	color: #660066;
+}
+
+.page7 p {
+	font-family: "Times New Roman", serif;
+	font-size : 150%;
+	color: #000066;
+}
+
+.page7 a {
+	font-style: italic;
+ 	color: #FF6600;
+ 	text-decoration:none;
+}
+
+.page7 a:hover{ 
+	color:#4B0082; 
+	font-style: normal;
+}
+
+
+.page8 {
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-size: 100%;
+	background-color: #CCCCFF;
+}
+
+.page8 h1 {
+	font-family: arial, verdana, sans-serif;
+	font-size : 200%;
+	color: #009933;
+}
+
+.page8 p {
+	font-family: "Times New Roman", serif;
+	font-size : 150%;
+	color: #000000;
+}
+
+.page8 a {
+	font-style: italic;
+	color: #FFFF00;
+	text-decoration:none;
+}
+
+.page8 a:hover{ 
+	color:#4B0082; 
+	font-style: normal;
+}
+
+
+.page9 {
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-size: 100%;
+	background-color: #FF9999;
+}
+
+.page9 h1 {
+	font-family: arial, verdana, sans-serif;
+	font-size : 200%;
+	color: #6600CC;
+}
+
+.page9 p {
+	font-family: "Times New Roman", serif;
+	font-size : 150%;
+	color: #000000;
+}
+
+.page9 a {
+	font-style: italic;
+	color: #006699;
+	text-decoration:none;
+}
+
+.page9 a:hover{ 
+	color:#4B0082; 
+	font-style: normal;
+}
